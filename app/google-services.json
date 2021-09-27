@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1044715101970",
+    "project_id": "recettes-cc0c1",
+    "storage_bucket": "recettes-cc0c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044715101970:android:d5af7441989bce0e2f1dcb",
+        "android_client_info": {
+          "package_name": "com.imedf.recettes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044715101970-d63rh6efdpgnkemcmrlkpcvc9m69sj0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc0OfC159qaT4PKt-ZlgyQoWZACB6eMMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044715101970-d63rh6efdpgnkemcmrlkpcvc9m69sj0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

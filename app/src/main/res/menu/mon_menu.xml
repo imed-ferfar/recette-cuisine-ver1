@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/ajoutRoucette"
+        android:icon="@drawable/ic_add"
+        android:title="@string/ajouter_une_recette"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/filtre"
+        android:icon="@drawable/ic_filter"
+        android:title="@string/filtre"
+        android:visible="true"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/compte"
+        android:icon="@drawable/ic_account"
+        android:title="@string/monprofil"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/actualise"
+        android:title="Toutes le recettes"
+        android:visible="true"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/decon"
+        android:icon="@drawable/ic_decon"
+        android:title="@string/d_connexion"
+        android:visible="true"
+        app:showAsAction="never" />
+</menu>

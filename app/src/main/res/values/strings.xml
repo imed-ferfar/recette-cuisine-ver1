@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Projet Recette_A17</string>
+    <string name="tab_text_1">Se connecter</string>
+    <string name="tab_text_2">S"'"inscrire</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nom">Nom</string>
+    <string name="tapez_votre_pr_nom">Tapez votre prénom</string>
+    <string name="tapez_votre_nom">Tapez votre nom</string>
+    <string name="courriel">Courriel</string>
+    <string name="tapez_votre_courriel">Tapez votre courriel</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="tapez_le_mot_de_passe">Tapez le mot de passe</string>
+    <string name="confirmer_mot_de_passe">Confirmer mot de passe</string>
+    <string name="confirmer_le_mot_de_passe">Confirmer le mot de passe</string>
+    <string name="s_inscrire">S\'inscrire</string>
+    <string name="pr_nom">Prénom</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_entrance">EntranceActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="salam">Salam :)</string>
+    <string name="tapez_vote_mot_de_passe">Tapez vote mot de passe</string>
+    <string name="afficher_mot_de_passe">Afficher mot de passe</string>
+    <string name="se_connecter">Se connecter</string>
+    <string name="mot_de_passe_oubli">Mot de passe oublié ?</string>
+    <string name="erreur">Erreur</string>
+    <string name="title_activity_demarrage">DemarrageActivity</string>
+    <string name="projet_a17_recettes_cuisine">Projet A17\nRecettes cuisine</string>
+    <string name="compte_cree">Votre compte a été bien créé.\nCliquez ici pour se connecter</string>
+    <string name="erreur_de_saisie">Erreur de saisie !</string>
+    <string name="d_connexion">Déconnexion</string>
+    <string name="item2">Item2</string>
+    <string name="title_activity_main28888">MainActivity28888</string>
+    <string name="monprofil">Mon profil</string>
+    <string name="filtre">Filtrer mes recettes</string>
+    <string name="ajouter_une_recette">Ajouter une recette</string>
+    <string name="ancien_mot_de_passe">Ancien mot de passe</string>
+    <string name="nouveau_mot_de_passe">Nouveau mot de passe</string>
+    <string name="mot_de_passe_incorrect">Mot de passe incorrect!</string>
+    <string name="les_3_champs_sont_oblatoires">Les 3 champs sont oblatoires!</string>
+    <string name="mot_de_passe_non_identique">Mot de passe non identique!</string>
+    <string name="mot_de_passe_chang">Mot de passe changé.</string>
+    <string name="changer_le_mot_de_passe">Changer le mot de passe</string>
+    <string name="le_non_et_le_pr_nom_sont_obligtoires">Le non et le prénom sont obligtoires!</string>
+    <string name="souvgarder">Souvgarder</string>
+</resources>

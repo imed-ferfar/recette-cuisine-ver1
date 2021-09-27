@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ProjetRecette/app/src/main/res/layout/activity_compte.xml" value="0.28020833333333334" />
+        <entry key="..\:/ProjetRecettes/app/src/main/res/layout/activity_affiche_recette.xml" value="0.24114583333333334" />
+        <entry key="..\:/ProjetRecettes/app/src/main/res/layout/activity_demarrage.xml" value="0.35688405797101447" />
+        <entry key="..\:/ProjetRecettes/app/src/main/res/layout/activity_recette.xml" value="0.33" />
+        <entry key="..\:/ProjetRecettes/app/src/main/res/layout/fragment_se_connecter.xml" value="0.2359375" />
+        <entry key="..\:/ProjetRecettes/app/src/main/res/layout/itemlist.xml" value="0.34692028985507245" />
+        <entry key="..\:/ProjetRecettes/app/src/main/res/menu/mon_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProjetsAndroid/ProjetRecetteA17/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3109375" />
+        <entry key="..\:/ProjetsAndroid/ProjetRecetteA17/app/src/main/res/drawable/ic_account.xml" value="0.3109375" />
+        <entry key="..\:/ProjetsAndroid/ProjetRecetteA17/app/src/main/res/drawable/ic_add.xml" value="0.21851851851851853" />
+        <entry key="..\:/ProjetsAndroid/ProjetRecetteA17/app/src/main/res/drawable/ic_add_btn.xml" value="0.25092592592592594" />
+        <entry key="..\:/ProjetsAndroid/ProjetRecetteA17/app/src/main/res/drawable/ic_back.xml" value="0.25092592592592594" />
+        <entry key="..\:/ProjetsAndroid/ProjetRecetteA17/app/src/main/res/drawable/ic_icon_background.xml" value="0.2703125" />
+        <entry key="..\:/ProjetsAndroid/ProjetRecetteA17/app/src/main/res/drawable/ic_imgProfil_background.xml" value="0.2703125" />
+        <entry key="..\:/ProjetsAndroid/ProjetRecetteA17/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3109375" />
+        <entry key="..\:/ProjetsAndroid/ProjetRecetteA17/app/src/main/res/drawable/ic_retour.xml" value="0.25092592592592594" />
+        <entry key="..\:/ProjetsAndroid/ProjetRecetteA17/app/src/main/res/layout/activity_changement_passe.xml" value="0.2994791666666667" />
+        <entry key="..\:/ProjetsAndroid/ProjetRecetteA17/app/src/main/res/layout/activity_compte.xml" value="0.25416666666666665" />
+        <entry key="..\:/ProjetsAndroid/ProjetRecetteA17/app/src/main/res/layout/activity_demarrage.xml" value="0.22" />
+        <entry key="..\:/ProjetsAndroid/ProjetRecetteA17/app/src/main/res/layout/activity_entrance.xml" value="0.25416666666666665" />
+        <entry key="..\:/ProjetsAndroid/ProjetRecetteA17/app/src/main/res/layout/activity_main.xml" value="0.2515625" />
+        <entry key="..\:/ProjetsAndroid/ProjetRecetteA17/app/src/main/res/layout/activity_main28888.xml" value="0.25416666666666665" />
+        <entry key="..\:/ProjetsAndroid/ProjetRecetteA17/app/src/main/res/layout/activity_recette.xml" value="0.16" />
+        <entry key="..\:/ProjetsAndroid/ProjetRecetteA17/app/src/main/res/layout/activity_recette2.xml" value="0.25" />
+        <entry key="..\:/ProjetsAndroid/ProjetRecetteA17/app/src/main/res/layout/activity_recuperation.xml" value="0.25416666666666665" />
+        <entry key="..\:/ProjetsAndroid/ProjetRecetteA17/app/src/main/res/layout/fragment_main.xml" value="0.2515625" />
+        <entry key="..\:/ProjetsAndroid/ProjetRecetteA17/app/src/main/res/layout/fragment_main_activity28888.xml" value="0.24010416666666667" />
+        <entry key="..\:/ProjetsAndroid/ProjetRecetteA17/app/src/main/res/layout/fragment_s_inscrire.xml" value="0.25" />
+        <entry key="..\:/ProjetsAndroid/ProjetRecetteA17/app/src/main/res/layout/fragment_se_connecter.xml" value="0.25" />
+        <entry key="..\:/ProjetsAndroid/ProjetRecetteA17/app/src/main/res/layout/itemimages.xml" value="0.28020833333333334" />
+        <entry key="..\:/ProjetsAndroid/ProjetRecetteA17/app/src/main/res/layout/itemingredient.xml" value="0.24479166666666666" />
+        <entry key="..\:/ProjetsAndroid/ProjetRecetteA17/app/src/main/res/layout/itemlist.xml" value="0.24010416666666667" />
+        <entry key="..\:/ProjetsAndroid/ProjetRecetteA17/app/src/main/res/layout/toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/ProjetsAndroid/ProjetRecetteA17/app/src/main/res/menu/mon_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/ProjetsAndroid/ProjetRecetteA17/app/src/main/res/mipmap-anydpi-v26/ic_icon.xml" value="0.2703125" />
+        <entry key="..\:/ProjetsAndroid/ProjetRecetteA17/app/src/main/res/mipmap-anydpi-v26/ic_icon_round.xml" value="0.2703125" />
+        <entry key="..\:/ProjetsAndroid/ProjetRecetteA17/app/src/main/res/mipmap-anydpi-v26/ic_imgProfil.xml" value="0.2703125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
